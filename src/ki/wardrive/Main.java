@@ -70,7 +70,7 @@ import com.google.android.maps.OverlayItem;
 
 /**
  * Wardriving app, stores scans in sqlite db on the sdcard and displays found
- * netwokrs around in the map.
+ * networks around in the map.
  * Automatically turns on: WiFi, GPS, Internet (for google maps). Needs a valid
  * GPS location to make scans working.
  * Green dots are open WiFis, red for non-open ones. The blue dot is the user's
